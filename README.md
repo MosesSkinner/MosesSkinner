@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MosesSkinner
+- 👀 I’m interested in crypto
+- 🌱 I’m currently learning rust, bash
+- 💞️ I’m looking to collaborate on nodes
