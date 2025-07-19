@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MosesSkinner
-- 👀 I’m interested in crypto
+- 👋 Hi, friends!
+- 👀 I’m interested in crypto & web3 development
 - 🌱 I’m currently learning rust, bash
-- 💞️ I’m looking to collaborate on nodes
+- 💞️ I’m looking to collaborate on solana projects
+- new info & my repos will coming soon...
