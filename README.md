@@ -1,5 +1,5 @@
 - 👋 Hi, friends!
 - 👀 I’m interested in crypto & web3 development
-- 🌱 I’m currently learning rust, bash
+- 🌱 I’m currently learning rust, bash etc
 - 💞️ I’m looking to collaborate on solana projects
 - new info & my repos will coming soon...
